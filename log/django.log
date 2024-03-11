@@ -57,3 +57,23 @@ INFO 2024-03-11 20:11:26,809 basehttp 12284 16076 "GET /admin/ HTTP/1.1" 200 866
 INFO 2024-03-11 20:11:26,892 basehttp 12284 16076 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
 INFO 2024-03-11 20:11:26,900 basehttp 12284 16076 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
 INFO 2024-03-11 20:11:26,900 basehttp 12284 9240 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2024-03-11 20:17:46,813 autoreload 15012 4764 Watching for file changes with StatReloader
+INFO 2024-03-11 20:17:50,569 basehttp 15012 15500 "GET / HTTP/1.1" 200 388
+INFO 2024-03-11 20:18:55,818 autoreload 18124 15588 Watching for file changes with StatReloader
+INFO 2024-03-11 20:18:58,926 basehttp 18124 18200 "GET / HTTP/1.1" 200 388
+INFO 2024-03-11 20:21:17,712 autoreload 18124 15588 C:\Users\User\PycharmProjects\Django\myproject\myproject\settings.py changed, reloading.
+INFO 2024-03-11 20:21:18,283 autoreload 10208 15824 Watching for file changes with StatReloader
+INFO 2024-03-11 20:21:30,643 autoreload 10208 15824 C:\Users\User\PycharmProjects\Django\myproject\myproject\settings.py changed, reloading.
+INFO 2024-03-11 20:21:31,399 autoreload 3924 15044 Watching for file changes with StatReloader
+INFO 2024-03-11 20:21:34,544 basehttp 3924 6688 "GET / HTTP/1.1" 200 388
+INFO 2024-03-11 20:22:15,674 autoreload 3924 15044 C:\Users\User\PycharmProjects\Django\myproject\myproject\settings.py changed, reloading.
+INFO 2024-03-11 20:22:16,413 autoreload 17896 14376 Watching for file changes with StatReloader
+INFO 2024-03-11 20:22:19,817 basehttp 17896 12500 "GET / HTTP/1.1" 200 10159
+INFO 2024-03-11 20:22:19,833 basehttp 17896 12500 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 12621
+INFO 2024-03-11 20:22:19,833 basehttp 17896 232 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 13578
+INFO 2024-03-11 20:22:19,840 basehttp 17896 9924 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2024-03-11 20:22:19,842 basehttp 17896 232 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4527
+INFO 2024-03-11 20:24:22,603 autoreload 17896 14376 C:\Users\User\PycharmProjects\Django\myproject\myproject\settings.py changed, reloading.
+INFO 2024-03-11 20:24:23,343 autoreload 2932 17032 Watching for file changes with StatReloader
+INFO 2024-03-11 20:27:21,024 autoreload 2932 17032 C:\Users\User\PycharmProjects\Django\myproject\myproject\settings.py changed, reloading.
+INFO 2024-03-11 20:27:21,848 autoreload 10308 9288 Watching for file changes with StatReloader

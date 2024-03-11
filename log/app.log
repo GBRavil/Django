@@ -48,3 +48,20 @@ INFO:django.server:"GET /admin/ HTTP/1.1" 200 8668
 INFO:django.server:"GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
 INFO:django.server:"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
 INFO:django.server:"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO:root:Посещена главная страница
+INFO:django.server:"GET / HTTP/1.1" 200 388
+INFO:root:Посещена главная страница
+INFO:django.server:"GET / HTTP/1.1" 200 388
+INFO:django.utils.autoreload:C:\Users\User\PycharmProjects\Django\myproject\myproject\settings.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\User\PycharmProjects\Django\myproject\myproject\settings.py changed, reloading.
+INFO:root:Посещена главная страница
+INFO:django.server:"GET / HTTP/1.1" 200 388
+INFO:django.utils.autoreload:C:\Users\User\PycharmProjects\Django\myproject\myproject\settings.py changed, reloading.
+INFO:root:Посещена главная страница
+INFO:django.server:"GET / HTTP/1.1" 200 10159
+INFO:django.server:"GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 12621
+INFO:django.server:"GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 13578
+INFO:django.server:"GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO:django.server:"GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4527
+INFO:django.utils.autoreload:C:\Users\User\PycharmProjects\Django\myproject\myproject\settings.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\User\PycharmProjects\Django\myproject\myproject\settings.py changed, reloading.
