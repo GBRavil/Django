@@ -13,3 +13,8 @@ INFO:django.server:"GET /static/admin/css/login.css HTTP/1.1" 200 958
 INFO:django.server:"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2682
 INFO:django.server:"GET /static/admin/js/theme.js HTTP/1.1" 200 1943
 INFO:django.server:"GET /static/admin/css/responsive.css HTTP/1.1" 200 17905
+INFO:root:Посещена главная страница
+INFO:django.server:"GET / HTTP/1.1" 200 388
+INFO:django.server:"GET /myapp3 HTTP/1.1" 301 0
+INFO:root:Посещена страница myapp3
+INFO:django.server:"GET /myapp3/ HTTP/1.1" 200 337

@@ -17,3 +17,10 @@ INFO 2024-03-11 18:49:31,767 basehttp 2232 17736 "GET /static/admin/css/responsi
 INFO 2024-03-11 18:55:25,131 autoreload 12208 13080 Watching for file changes with StatReloader
 INFO 2024-03-11 18:56:31,495 autoreload 3204 4940 Watching for file changes with StatReloader
 INFO 2024-03-11 18:59:09,401 autoreload 7008 6404 Watching for file changes with StatReloader
+INFO 2024-03-11 19:02:24,849 autoreload 14368 6204 Watching for file changes with StatReloader
+INFO 2024-03-11 19:04:06,946 autoreload 9472 4256 Watching for file changes with StatReloader
+INFO 2024-03-11 19:10:31,971 autoreload 5792 8876 Watching for file changes with StatReloader
+INFO 2024-03-11 19:18:22,570 autoreload 17416 10512 Watching for file changes with StatReloader
+INFO 2024-03-11 19:18:30,960 basehttp 17416 1648 "GET / HTTP/1.1" 200 388
+INFO 2024-03-11 19:18:46,114 basehttp 17416 1648 "GET /myapp3 HTTP/1.1" 301 0
+INFO 2024-03-11 19:18:46,117 basehttp 17416 9888 "GET /myapp3/ HTTP/1.1" 200 337
