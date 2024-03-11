@@ -1,1 +1,15 @@
 INFO:django.utils.autoreload:C:\Users\User\PycharmProjects\Django\myproject\myproject\settings.py changed, reloading.
+INFO:root:Посещена главная страница
+INFO:django.server:"GET / HTTP/1.1" 200 388
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.server:"GET /favicon.ico HTTP/1.1" 404 2441
+INFO:django.server:"GET /admin HTTP/1.1" 301 0
+INFO:django.server:"GET /admin/ HTTP/1.1" 302 0
+INFO:django.server:"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+INFO:django.server:"GET /static/admin/css/base.css HTTP/1.1" 200 21544
+INFO:django.server:"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO:django.server:"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+INFO:django.server:"GET /static/admin/css/login.css HTTP/1.1" 200 958
+INFO:django.server:"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2682
+INFO:django.server:"GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+INFO:django.server:"GET /static/admin/css/responsive.css HTTP/1.1" 200 17905
