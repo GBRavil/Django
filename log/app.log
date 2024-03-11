@@ -18,3 +18,13 @@ INFO:django.server:"GET / HTTP/1.1" 200 388
 INFO:django.server:"GET /myapp3 HTTP/1.1" 301 0
 INFO:root:Посещена страница myapp3
 INFO:django.server:"GET /myapp3/ HTTP/1.1" 200 337
+INFO:root:Посещена главная страница
+INFO:django.server:"GET / HTTP/1.1" 200 388
+WARNING:django.request:Not Found: /myapp4
+WARNING:django.server:"GET /myapp4 HTTP/1.1" 404 2640
+WARNING:django.request:Not Found: /add
+WARNING:django.server:"GET /add HTTP/1.1" 404 2631
+WARNING:django.request:Not Found: /add
+WARNING:django.server:"GET /add HTTP/1.1" 404 2631
+INFO:django.server:"GET //myapp4/add HTTP/1.1" 301 0
+INFO:django.server:"GET /myapp4/add/ HTTP/1.1" 200 767
