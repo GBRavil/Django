@@ -28,3 +28,23 @@ WARNING:django.request:Not Found: /add
 WARNING:django.server:"GET /add HTTP/1.1" 404 2631
 INFO:django.server:"GET //myapp4/add HTTP/1.1" 301 0
 INFO:django.server:"GET /myapp4/add/ HTTP/1.1" 200 767
+INFO:root:Посещена главная страница
+INFO:django.server:"GET / HTTP/1.1" 200 388
+INFO:django.server:"GET /admin/ HTTP/1.1" 302 0
+INFO:django.server:"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4359
+INFO:django.server:"GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO:django.server:"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO:django.server:"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO:django.server:"GET /static/admin/css/login.css HTTP/1.1" 304 0
+INFO:django.server:"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO:django.server:"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO:django.server:"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO:root:Посещена главная страница
+INFO:django.server:"GET / HTTP/1.1" 200 388
+INFO:django.server:"GET /admin/ HTTP/1.1" 302 0
+INFO:django.server:"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4359
+INFO:django.server:"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO:django.server:"GET /admin/ HTTP/1.1" 200 8668
+INFO:django.server:"GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO:django.server:"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO:django.server:"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
